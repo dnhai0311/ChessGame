@@ -1,0 +1,11 @@
+D:\Nien_luan\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.AssemblyReference.cache
+D:\Nien_luan\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+D:\Nien_luan\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.cache
+D:\Nien_luan\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+D:\Nien_luan\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+D:\Nien_luan\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+D:\Nien_luan\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+D:\Nien_luan\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+D:\Nien_luan\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
+D:\Nien_luan\ChessGame\ChessGame\obj\Debug\ChessGame.StopForm.resources
+D:\Nien_luan\ChessGame\ChessGame\obj\Debug\ChessGame.frmSolver.resources

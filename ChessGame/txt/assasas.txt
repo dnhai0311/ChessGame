@@ -1,0 +1,8 @@
+Hậu đứng ở hàng 1 cột 1
+Hậu đứng ở hàng 2 cột 5
+Hậu đứng ở hàng 3 cột 8
+Hậu đứng ở hàng 4 cột 6
+Hậu đứng ở hàng 5 cột 3
+Hậu đứng ở hàng 6 cột 7
+Hậu đứng ở hàng 7 cột 2
+Hậu đứng ở hàng 8 cột 4
